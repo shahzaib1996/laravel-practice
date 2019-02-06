@@ -1,1 +1,2 @@
-# laravel-user-mysql
+# laravel-practice
+
